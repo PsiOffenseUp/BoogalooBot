@@ -1,0 +1,16 @@
+mario Nintendo_Character
+luigi Nintendo_Character
+zelda Nintendo_Character
+link Nintendo_Character
+bowser Nintendo_Character
+goomba Nintendo_Character
+ness Nintendo_Character
+boo Nintendo_Character
+octorock Nintendo_Character
+ganondorf Nintendo_Character
+peach Nintendo_Character
+rosalina Nintendo_Character
+donkey_kong Nintendo_Character
+diddy_kong Nintendo_Character
+fox Nintendo_Character
+falco Nintendo_Character
